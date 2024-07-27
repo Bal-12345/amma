@@ -1,1 +1,1 @@
-console.log('life is gift')
+console.log('life is gift by god')
