@@ -1,3 +1,3 @@
 
-console.log('na kutumbam')
-console.log('2024')
+console.log('kutumbam')
+console.log('24')
