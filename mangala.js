@@ -1,2 +1,2 @@
 
-console.log('na kutumbam')
+console.log('life')
