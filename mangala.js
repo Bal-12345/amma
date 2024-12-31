@@ -1,2 +1,2 @@
 
-console.log('life')
+console.log('life n death')
