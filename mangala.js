@@ -1,3 +1,2 @@
 
-console.log('today jan 1 2025')
-console.log('24')
+console.log('mangala was my  colleague in synechron   bangalore')
