@@ -1,1 +1,1 @@
-console.log('life is gift by god to all of us')
+console.log('this is 2025 year')
